@@ -8,3 +8,7 @@ Se desarrolló un controlador de primera persona básico que se le incorporó al
 La velocidad del agente, la aceleración, la altura, así como la velocidad de la animación del mismo dependen de su tamaño, que es un valor generado aleatoriamente entre 0.25 y 0.85.
 
 ![](gif.gif)
+
+A basic first person controller was developed and put into the player object. Several different agents were developed that are differentiated by their color (Yellow, Blue, Red, Green). For the agents, a 3D robot model was used and an animation was assigned to each of them that makes them look like they are flying.
+
+An agent's speed, acceleration, height, as well as the animation's speed depend on its scale, which is a randomly generated value between 0.25 and 0.85.
